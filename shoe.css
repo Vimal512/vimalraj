@@ -1,0 +1,240 @@
+body{
+    background-color: rgb(44, 243, 18);
+}
+a{
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px;
+}
+#bb{
+    background-color:blueviolet;
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 0s;
+}
+#bb:hover{
+    background-color: yellow;
+    color: red;
+}
+.s1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-decoration-line:underline;    
+}
+.s01
+{
+    float: left;
+    width: 500px;
+    margin:2px;
+	padding:50px;
+}
+#s11{
+
+    background-color:blueviolet;
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 0s;
+
+}
+#s11:hover{
+    background-color: yellow;
+    color: red;
+}
+
+.s02
+{
+    float: right;
+    width: 500px;
+    margin:2px;
+	padding:50px;
+}
+#s12{
+
+    background-color:blueviolet;
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 0s;
+
+}
+#s12:hover{
+    background-color: yellow;
+    color: red;
+}
+
+.s03
+{
+    float: left;
+    width: 500px;
+    margin:2px;
+	padding:50px;
+}
+#s13{
+
+    background-color:blueviolet;
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 0s;
+
+}
+#s13:hover{
+    background-color: yellow;
+    color: red;
+}
+.s04
+{
+    float:right;
+    width: 500px;
+    margin:2px;
+	padding:50px;
+}
+#s14{
+
+    background-color:blueviolet;
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 0s;
+
+}
+#s14:hover{
+    background-color: yellow;
+    color: red;
+}
+.s05
+{
+    float:left;
+    width: 500px;
+    margin:2px;
+	padding:50px;
+}
+#s15{
+
+    background-color:blueviolet;
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 0s;
+
+}
+#s15:hover{
+    background-color: yellow;
+    color: red;
+}
+.s06
+{
+    float:right;
+    width: 500px;
+    margin:2px;
+	padding:50px;
+}
+#s16{
+
+    background-color:blueviolet;
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 0s;
+
+}
+#s16:hover{
+    background-color: yellow;
+    color: red;
+}
+.s07
+{
+    float:left;
+    width: 500px;
+    margin:2px;
+	padding:50px;
+    border-radius: 50px;
+}
+#s17{
+
+    background-color:blueviolet;
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 0s;
+
+}
+#s17:hover{
+    background-color: yellow;
+    color: red;
+}
+.s08
+{
+    float:right;
+    width: 500px;
+    margin:2px;
+	padding:50px;
+}
+#s18{
+
+    background-color:blueviolet;
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 0s;
+
+}
+#s18:hover{
+    background-color: yellow;
+    color: red;
+}
+.s09
+{
+    float:left;
+    width: 500px;
+    margin:2px;
+	padding:50px;
+}
+#s19{
+
+    background-color:blueviolet;
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 0s;
+
+}
+#s19:hover{
+    background-color: yellow;
+    color: red;
+}
+.s10
+{
+    float:right;
+    width: 500px;
+    margin:2px;
+	padding:50px;
+    border-radius: 10px;
+}
+#s20{
+
+    background-color:blueviolet;
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 0s;
+
+}
+#s20:hover{
+    background-color: yellow;
+    color: red;
+}

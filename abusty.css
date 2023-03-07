@@ -1,0 +1,17 @@
+a{
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px;
+    }
+    #b1{
+        background-color:blueviolet;
+        color: black;
+        font-size: 15px;
+        border-radius: 5px;
+        cursor: pointer;
+        transition-duration: 0s;
+    }
+    #b1:hover{
+        background-color: yellow;
+        color: red;
+    }

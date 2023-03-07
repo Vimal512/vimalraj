@@ -1,0 +1,19 @@
+body{
+
+        font-family: sans-serif;
+       
+    
+    }
+.box{
+    
+    top: 70%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 50px 30px;
+}
+b{
+    font-size:30px;
+}
+

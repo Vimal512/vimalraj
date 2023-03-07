@@ -1,0 +1,153 @@
+body{
+    background-color: rgb(44, 243, 18);
+}
+
+a{
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px;
+    
+}
+#bb{
+    background-color:blueviolet;
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 0s;
+}
+#bb:hover{
+    background-color: yellow;
+    color: red;
+} 
+h1{
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.j1
+{
+    float: left;
+    width: 500px;
+    margin:2px;
+	padding:50px;
+}
+#j11{
+
+    background-color:blueviolet;
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 0s;
+
+}
+#j11:hover{
+    background-color: yellow;
+    color: red;
+}
+.j2
+{
+    float: right;
+    width: 500px;
+    margin:2px;
+	padding:50px;
+}
+#j12{
+
+    background-color:blueviolet;
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 0s;
+
+}
+#j12:hover{
+    background-color: yellow;
+    color: red;
+}
+.j3
+{
+    float: left;
+    width: 500px;
+    margin:2px;
+	padding:50px;
+}
+#j13{
+
+    background-color:blueviolet;
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 0s;
+
+}
+#j13:hover{
+    background-color: yellow;
+    color: red;
+}
+.j4
+{
+    float: right;
+    width: 500px;
+    margin:2px;
+	padding:50px;
+}
+#j14{
+
+    background-color:blueviolet;
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 0s;
+
+}
+#j14:hover{
+    background-color: yellow;
+    color: red;
+}
+.j5
+{
+    float: left;
+    width: 500px;
+    margin:2px;
+	padding:50px;
+}
+#j15{
+
+    background-color:blueviolet;
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 0s;
+
+}
+#j15:hover{
+    background-color: yellow;
+    color: red;
+}
+.j6
+{
+    float: right;
+    width: 500px;
+    margin:2px;
+	padding:50px;
+}
+#j16{
+
+    background-color:blueviolet;
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 0s;
+
+}
+#j16:hover{
+    background-color: yellow;
+    color: red;
+}

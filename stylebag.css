@@ -1,0 +1,142 @@
+body{
+    background-color: rgb(29, 250, 9)
+}
+
+.c1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-decoration-line:underline;
+    
+}
+a{
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px;
+}
+#bb{
+    background-color:blueviolet;
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration:0s;
+
+}
+#bb:hover{
+    background-color: yellow;
+    color: red;
+}
+#b1{
+    background-color:blueviolet;
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 0s;
+}
+#b1:hover{
+    background-color: yellow;
+    color: red;
+}
+#b2{
+    background-color:blueviolet;
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 0s;
+}
+#b2:hover{
+    background-color: yellow;
+    color: red;
+}
+#b3{
+    background-color:blueviolet;
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 0s;
+}
+#b3:hover{
+    background-color: yellow;
+    color: red;
+}
+#b4{
+    background-color:blueviolet;
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 0s;
+}
+#b4:hover{
+    background-color: yellow;
+    color: red;
+}
+#b5{
+    background-color:blueviolet;
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 0s;
+}
+#b5:hover{
+    background-color: yellow;
+    color: red;
+}
+#b6{
+    background-color:blueviolet;
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 0s;
+}
+#b6:hover{
+    background-color: yellow;
+    color: red;
+}
+.c2
+{
+    float: left;
+    width: 500px;
+    margin:2px;
+	padding:50px;
+}
+
+.c3{
+    float: right;
+    width: 500px;
+    margin:2px;
+	padding:50px;
+}
+.c4{
+    float: left;
+    width: 500px;
+    margin:2px;
+	padding:50px;
+}
+.c5{
+    
+        float: right;
+        width: 500px;
+        margin:2px;
+	    padding:50px;
+}
+.c6 {
+
+    float:right;
+    width: 500px;
+    margin:2px;
+	padding:50px;
+}
+.c7{
+    
+    float:left;
+    width: 500px;
+    margin:2px;
+    padding:50px;
+}
